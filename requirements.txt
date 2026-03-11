@@ -23,3 +23,6 @@ plotly
 jupyter
 tqdm
 requests
+
+# GPU-only!!!
+transformer_lens
