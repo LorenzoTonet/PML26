@@ -10,9 +10,9 @@ scikit-learn
 joblib
 
 # Deep Learning (PyTorch)
-torch
-torchvision
-torchaudio
+#torch
+#torchvision
+#torchaudio
 
 # Visualization
 matplotlib
